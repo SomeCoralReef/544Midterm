@@ -1,7 +1,21 @@
-[40080:53796:0316/232908.321:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[40080:51148:0316/232908.378:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[40080:53796:0316/232908.387:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[50608:49476:0316/232911.698:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6E769A68F50D05135E98DC8966B027B8 will be ignored
-[40080:53796:0316/233728.933:ERROR:device_event_log_impl.cc(196)] [23:37:28.891] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[40080:53796:0316/234303.684:ERROR:device_event_log_impl.cc(196)] [23:43:03.646] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[40080:53796:0317/001958.041:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[40008:48016:0319/225526.051:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[40008:28012:0319/225526.120:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[40008:48016:0319/225526.130:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[48044:43896:0319/225531.302:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-333A60311D8469FCEEAD9C52CD6A0F69 will be ignored
+[40008:43176:0319/225531.758:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[40008:48016:0319/225531.810:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[40008:48016:0319/225531.811:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[40008:48016:0319/225531.811:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[40008:48016:0319/225531.811:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[40008:43176:0319/225531.833:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[38040:47764:0319/225533.355:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[38040:47764:0319/225533.418:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[38040:47764:0319/225542.042:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[38040:47764:0319/225555.741:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[39868:48080:0319/225738.482:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-56491591498A743BFBC33388B8D20C7A will be ignored
+[46904:38192:0319/225738.639:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[40008:48016:0319/230133.875:ERROR:device_event_log_impl.cc(196)] [23:01:33.846] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40008:48016:0319/230408.777:ERROR:device_event_log_impl.cc(196)] [23:04:08.738] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40008:48016:0319/230813.064:ERROR:device_event_log_impl.cc(196)] [23:08:11.611] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40008:48016:0319/230859.784:ERROR:device_event_log_impl.cc(196)] [23:08:59.160] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40008:48016:0319/232938.957:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
